@@ -1,7 +1,7 @@
 # splinterlands_tokens_bundle_claim
 
 ### What this script does:
-This script bundle claim SPS &amp; collect DEC tokens of multiple sub accounts to user main account. It allows user to collect multiple splinterlands tokens from sub accounts to their main account, reduce the time spent on the manual interaction with the HIVE blockchain and splinterlands game server.
+This script bundle claim SPS &amp; collect DEC tokens of multiple sub accounts to user main account. It allows user to collect multiple splinterlands tokens from sub accounts to their main account, reduce the time spent on the manual interaction with the HIVE blockchain by sending custom JSON to the blockchain and calling splinterlands game server API.
 
 ---
 
